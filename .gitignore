@@ -1,0 +1,13 @@
+# This repository is the public distribution point, not the source tree.
+# Binaries belong to Releases (assets), never to git -- a 62 MB .exe per
+# version would make the clone every user's `git clone` has to do grow
+# without bound, and GitHub warns past 50 MB / rejects past 100 MB.
+*.exe
+*.rar
+*.zip
+*.7z
+
+# Nothing from the private source tree should ever land here.
+*.py
+__pycache__/
+build_logs/
