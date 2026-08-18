@@ -5,7 +5,7 @@ Turn a video or an animated GIF into a sprite-sheet texture and the
 
 **[Download the latest version](https://github.com/LunarSerenade/serenade-gif/releases/latest)**
 
-Windows 10 / 11, 64-bit. One file, no installer. Dwnload
+Windows 10 / 11, 64-bit. One file, no installer. Download
 `Serenade GIF.exe` from the release and run it.
 
 ---
