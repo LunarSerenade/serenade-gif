@@ -5,7 +5,7 @@ Turn a video or an animated GIF into a sprite-sheet texture and the
 
 **[Download the latest version](https://github.com/LunarSerenade/serenade-gif/releases/latest)**
 
-Windows 10 / 11, 64-bit. One file, no installer — download
+Windows 10 / 11, 64-bit. One file, no installer. Dwnload
 `Serenade GIF.exe` from the release and run it.
 
 ---
@@ -18,7 +18,7 @@ there you can read the release notes and let it install and restart
 itself, or skip the version. You can also ask at any time with the
 **Check for Updates** button in the toolbar.
 
-Nothing is sent to us when it checks — it is an anonymous read of this
+Nothing is sent to us when it checks. it is an anonymous read of this
 repository's public release list.
 
 ## What this repository holds
@@ -26,8 +26,8 @@ repository's public release list.
 Serenade GIF is not open source; the source is not published here. This
 repository is the distribution point:
 
-- **Releases** — the signed-off `.exe` for each version.
-- **`status.json`** — a small file the app reads on launch so we can post
+- **Releases** the signed-off `.exe` for each version.
+- **`status.json`**  a small file the app reads on launch so we can post
   a notice, or withdraw a build, without shipping a new one.
 
 Bug reports and feature requests are welcome in
