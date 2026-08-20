@@ -1,7 +1,8 @@
 # Serenade GIF
 
 Turn a video or an animated GIF into a sprite-sheet texture and the
-`llSetTextureAnim` script that plays it, for Second Life®.
+`llSetTextureAnim` script that plays it, for use in the Second Life®
+virtual world.
 
 **[Download the latest version](https://github.com/LunarSerenade/serenade-gif/releases/latest)**
 
@@ -36,7 +37,7 @@ Bug reports and feature requests are welcome in
 ## Legal
 
 Second Life® and Linden Lab® are trademarks of Linden Research, Inc.
-This software is not affiliated with, endorsed, sponsored, or
-specifically approved by Linden Research, Inc.
+Serenade and Serenade GIF are not affiliated with or sponsored by
+Linden Research.
 
 Use of the software is governed by the EULA included with the download.
